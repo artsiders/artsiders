@@ -1,16 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Salim
 =============================================================================================================================
 
-i'm full-stack web and mobile développer !
+i'm full-stack web développer !
 ------------------------------------------
 
 🚀 Dive into the captivating world of web and mobile development! As a Full-Stack developer, I'm passionate about creating innovative and impactful applications. 💡 From designing stunning user interfaces to implementing powerful features, I'm ready to bring your boldest ideas to life. With a strong expertise in web and mobile technologies, I'm committed to delivering tailored solutions at the forefront of innovation. 🌐 Together, let's create a remarkable online presence and propel your business to new heights. 📈 Ready for the challenge? 😃 Contact me now for a free consultation and discover how we can turn your vision into reality!
 
 * 🌍  I'm based in CAMEROON
-* 🖥️  See my portfolio at [alt-plus](http://alt-plus.onrender.com/)
+* 🖥️  See my portfolio at [salim-portfolio](https://salim-portfolio.onrender.com/)
 * ✉️  You can contact me at [salim.artsider@gmail.com](mailto:salim.artsider@gmail.com)
 * 🚀  I'm currently working on [shopify clone](http://comx-front.vercel.app/)
-* 🧠  I'm learning VueJS
+* 🧠  I'm learning Next JS
 * ⚡  I have a superpower 🤫!
 
 ### Skills
