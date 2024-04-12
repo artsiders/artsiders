@@ -14,6 +14,6 @@ i'm web développer !
 ## My skills
 ![My Skills](https://skillicons.dev/icons?i=ts,react,tailwind,sass,mongodb,nodejs,git,php,mysql,wordpress,blender&perline=8)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=deusPride&theme=dark)](https://github.com/artsiders/chatbot)
+[![GitHub Streak](https://streak-stats.demolab.com?user=artsiders&theme=dark)](https://github.com/artsiders/chatbot)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artsiders&layout=compact&theme=github_dark)](https://github.com/artsiders/github-readme-stats)
