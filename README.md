@@ -5,10 +5,10 @@ i'm web développer !
 ------------------------------------------
 
 * 🌍  I'm based in CAMEROON
-* 🖥️  See my portfolio at [salim-portfolio](https://salim-portfolio.onrender.com/)
+* 🖥️  See my portfolio at [salim-portfolio](https://salim.altplus.dev)
 * ✉️  You can contact me at [salim.artsider@gmail.com](mailto:salim.artsider@gmail.com)
-* 🚀  I'm currently working on [shopify clone](http://comx-front.vercel.app/)
-* 🧠  I'm learning Next JS
+* 🚀  I'm currently working on [brasserie de bethusy website](https://brasserie-de-bethusy.vercel.app/)
+* 🧠  I'm learning Flutter
 * ⚡  I have a superpower 🤫!
 
 ## My skills
