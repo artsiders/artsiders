@@ -2,11 +2,12 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=artsiders&show_icons=true&theme=github_dark" alt="Salim's GitHub stats" />
 
-I'm a creative full-stack web developer based in Cameroon 🇨🇲.  
-I love building cool stuff for the web and experimenting with design, motion & 3D.
+Creative full-stack web developer.  
+I build smooth experiences, explore design and play with 3D & animations.
 
 - 🚀 Currently working on [Brasserie de Béthusy](https://brasserie-de-bethusy.vercel.app/)
 - 🌱 Learning Flutter
+- ⚡ I have a superpower 🤫
 - 📫 Reach me at [salim.artsider@gmail.com](mailto:salim.artsider@gmail.com)
 
 ---
@@ -18,8 +19,8 @@ I love building cool stuff for the web and experimenting with design, motion & 3
 <code><img height="20" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></code>
 <code><img height="20" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></code>
 <code><img height="20" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></code>
-<code><img height="20" src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" /></code>
-<code><img height="20" src="https://skillicons.dev/icons?i=blender" alt="Blender" /></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=docker" alt="Docker" /></code>
 
 ---
 
