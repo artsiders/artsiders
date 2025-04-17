@@ -1,38 +1,26 @@
-## 👋 Hi there, I'm [Salim](https://salim.altplus.dev)
+## Hi there, I'm [Salim](https://salim.altplus.dev) 👋
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=artsiders&show_icons=true&theme=github_dark" alt="Salim's GitHub stats" />
 
-Je suis un développeur web passionné, curieux et toujours prêt à relever de nouveaux défis.
+I'm a creative full-stack web developer based in Cameroon 🇨🇲.  
+I love building cool stuff for the web and experimenting with design, motion & 3D.
 
-- 🌍 Basé au Cameroun 🇨🇲
-- 🚀 Je travaille actuellement sur [Brasserie de Béthusy](https://brasserie-de-bethusy.vercel.app/)
-- 🧠 En ce moment, j'apprends **Flutter** pour explorer le monde du mobile
-- ✉️ Vous pouvez me contacter ici : [salim.artsider@gmail.com](mailto:salim.artsider@gmail.com)
-- 🎨 J'aime aussi créer du contenu, dessiner, et expérimenter Blender 🎥
-- ⚡ Petit secret : j’ai un super pouvoir... mais chut 🤫
+- 🚀 Currently working on [Brasserie de Béthusy](https://brasserie-de-bethusy.vercel.app/)
+- 🌱 Learning Flutter
+- 📫 Reach me at [salim.artsider@gmail.com](mailto:salim.artsider@gmail.com)
 
 ---
 
-### 🛠️ My Tech Stack
+### ⚒️ Tech I Use
 
-![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,sass,php,mysql,nodejs,mongodb,wordpress,git,blender&perline=8)
-
----
-
-### 📊 GitHub Activity
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=artsiders&theme=dark)](https://github.com/artsiders/chatbot)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artsiders&layout=compact&theme=github_dark)](https://github.com/artsiders/github-readme-stats)
+<code><img height="20" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=react" alt="React" /></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" /></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=blender" alt="Blender" /></code>
 
 ---
 
-### 💬 Let’s Connect
-
-- 💼 Portfolio : [salim.altplus.dev](https://salim.altplus.dev)
-- 📸 Instagram : [@artsider_off](https://instagram.com/artsider_off)
-- 🐱‍💻 LinkedIn : [Salim Njikam](https://www.linkedin.com/in/salim-njikam)
-
----
-
-> *"Code is poetry. And I like writing poems that make the web better."* ✨
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artsiders&layout=compact&theme=github_dark)](https://github.com/artsiders)
