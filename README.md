@@ -16,7 +16,7 @@ I focus on delivering smooth and thoughtful **user experiences**.
 <code><img height="40" src="https://skillicons.dev/icons?i=react" alt="React" /></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></code>
-<code><img height="40" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=expressjs" alt="expressjs.js" /></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=docker" alt="Docker" /></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" /></code>
