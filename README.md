@@ -3,7 +3,7 @@
 I'm a creative full-stack web developer.  
 I focus on delivering smooth and thoughtful **user experiences**.
 
-- 🚀 Currently working on [Brasserie de Béthusy](https://bethusy.altplus.dev/)
+- 🚀 Currently working on [Troopay](https://troopay.staging.troopay.com/)
 - 🌱 Learning Flutter
 - ⚡ I have a superpower 🤫
 - 📫 Contact me: [salim.artsider@gmail.com](mailto:salim.artsider@gmail.com) • [Portfolio](https://salim.altplus.dev)
