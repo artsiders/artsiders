@@ -20,10 +20,3 @@ I focus on delivering smooth and thoughtful **user experiences**.
 <code><img height="40" src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=docker" alt="Docker" /></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" /></code>
-
----
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=artsiders&show_icons=true&theme=github_dark" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artsiders&layout=compact&theme=github_dark" height="160" />
-</div>
